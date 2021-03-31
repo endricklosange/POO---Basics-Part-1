@@ -10,6 +10,6 @@ echo $bmw->forward();
 echo $bmw->brake();
 
 echo '<br> Bicycle <br>';
-echo $bmw->start();
-echo $bmw->forward();
-echo $bmw->brake();
+echo $bmx->start();
+echo $bmx->forward();
+echo $bmx->brake();
